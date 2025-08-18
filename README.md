@@ -1,0 +1,6 @@
+- **Loan Defaulters project**: builds a XGBoost model trained on a Kaggle loan dataset. Model evaluation is done using **ROC AUC** and a threshold is selected based on the **Recall-Precison curve**
+- **VaR & CVaR modelling**: builds models for a portfolio composed of five equally weighted tech stocks. Evaluation is done through stat tests and backtesting. Currently in progress.
+- **Stress_Test**: An ongoing project that will stress test the model developed in the previous project in several adverse, optimistic and neutral scenarios.
+- **Stock prices GBM**: Simulates stock prices as a **Geometric Brownian motion**, and option price paths from the **Black Scholes Model**
+- **Volatility Modelling**: Models the **EWMA** and **GARCH(1,1)** models for asset volatility
+- **trading_momentum**: Implements a **Momentum** trading strategy for a single SPY ticker and compares it to a **buy and hold** benchmark
